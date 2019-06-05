@@ -6,7 +6,7 @@ And we need to know on what application you want/need/care about, to let package
 La documentation de Yunohost contient une liste de [application souhaitées] (https://yunohost.org/#/apps_wishlist_en).
 Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / vous vous soucier, afin que les packagers les package with love.
 
-[poll type=multiple results=on_vote min=1 max=20]
+[poll type=multiple results=on_vote min=1 max=5]
 
 * [10er10](https://github.com/dready92/10er10)
 
