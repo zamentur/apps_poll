@@ -10,15 +10,29 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [10er10](https://github.com/dready92/10er10)
 
+* [Abantecart](http://www.abantecart.com/)
+
+* [Adguard](https://adguard.com/)
+
+* [Adhocserver](https://psp.gameplayer.club/)
+
+* [Agora](https://www.agora-project.net/)
+
 * [Airtime](https://www.sourcefabric.org/en/airtime/)
 
 * [Ajenti](http://ajenti.org)
 
 * [aMule](https://github.com/amule-project/amule)
 
+* [Askbot](http://askbot.org/)
+
 * [Auth0 SSO Dashboard](https://github.com/auth0-extensions/auth0-sso-dashboard-extension)
 
 * [Autoblog](https://github.com/mitsukarenai/Projet-Autoblog) (/!\ last update: Jan 27, 2015)
+
+* [Bicbucstriim](http://projekte.textmulch.de/bicbucstriim/)
+
+* [Bolt](http://bolt.cm/)
 
 * [Bitmessage](https://bitmessage.org/wiki/Compiling_instructions)
 
@@ -34,6 +48,8 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
+* [caliopen](https://www.caliopen.org)
+
 * [Candy](https://candy-chat.github.io/candy)
 
 * [CardDavMate](https://www.inf-it.com/open-source/clients/carddavmate)
@@ -42,13 +58,23 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [CheckUp](https://sourcegraph.github.io/checkup)
 
+* [chtickynotes](https://github.com/txusko/PostItAll)
+
 * [Cloud torrent](https://github.com/jpillora/cloud-torrent)
 
 * [Cockpit](http://cockpit-project.org/)
 
+* [coin](https://code.ffdn.org/ffdn/coin)
+
+* [collabora](https://www.collaboraoffice.com/)
+
 * [Commafeed](https://github.com/Athou/commafeed)
 
 * [Converse.js](https://conversejs.org)
+
+* [cops](https://blog.slucas.fr/fr/projects/calibre-opds-php-server/)
+
+* [covoiturage](https://github.com/SebGit/covoiturage-libre)
 
 * [Cozy](https://github.com/cozy)
 
@@ -64,9 +90,33 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Deluge](http://deluge-torrent.org) (with WebUI)
 
+* [democracyos](http://democracyos.org/)
+
+* [diaspora](https://diasporafoundation.org)
+
+* [diasporadocker](https://diasporafoundation.org/)
+
 * [DirectoryLister](https://github.com/DirectoryLister/DirectoryLister)
 
+* [django_app](https://github.com/Jojo144/django_app_ynh)
+
 * [DNSchain](https://github.com/okTurtles/dnschain)
+
+* [docker-registry](https://github.com/docker/distribution/)
+
+* [dockercontainer](https://hub.docker.com/)
+
+* [dockerrstudio](https://github.com/rocker-org/rocker)
+
+* [dockerui](https://github.com/kevana/ui-for-docker)
+
+* [dolibarr](https://www.dolibarr.org/)
+
+* [domoticz](https://www.domoticz.com)
+
+* [duniter](https://duniter.org/fr/)
+
+* [dynette](https://github.com/YunoHost/dynette)
 
 * [eLabFTW](https://www.elabftw.net/) electronic lab notebook
 
@@ -76,7 +126,11 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [EteSync](https://www.etesync.com/)
 
+* [ethercalc](https://ethercalc.net/)
+
 * [Ethersheet](https://github.com/ethersheet-collective/EtherSheet)
+
+* [facette](https://facette.io/)
 
 * [Fail2web](https://github.com/Sean-Der/fail2web)
 
@@ -88,19 +142,51 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [FitTrackee](https://github.com/SamR1/FitTrackee)
 
+* [flask](https://github.com/YunoHost-Apps/flask_ynh)
+
+* [fluxbb](https://fluxbb.org)
+
 * [FoOlSlide](http://foolcode.github.io/FoOlSlide/) Open source comicbook/manga management software
 
 * [Fossil](http://www.fossil-scm.org)
 
+* [framaestro](https://framaestro.org/)
+
+* [framaestro_hub](https://framaestro.org/)
+
+* [framaforms](https://framagit.org/framasoft/framaforms)
+
 * [Framaslides](https://framagit.org/framasoft/framaslides/)
+
+* [freeboard](https://github.com/Freeboard/freeboard)
+
+* [ftp_webapp](http://www.net2ftp.com)
+
+* [funkwhale](https://funkwhale.audio/)
+
+* [galette](http://galette.eu)
+
+* [gateone](http://liftoffsoftware.com/Products/GateOne)
 
 * [Geneweb](https://geneweb.tuxfamily.org)
 
 * [GetSimple CMS](http://get-simple.info)
 
+* [ghost](https://ghost.org/)
+
 * [Git-annex](http://git-annex.branchable.com)
 
 * [Gitit](https://github.com/jgm/gitit)
+
+* [gitolite](https://github.com/sitaramc/gitolite)
+
+* [gitrepositories](https://github.com/plopoyop/gitrepositories_ynh)
+
+* [gitweb](https://github.com/matlink/gitweb_ynh)
+
+* [glpi](https://glpi-project.org/)
+
+* [gnusocial](https://www.gnu.io/)
 
 * [Goaccess](https://goaccess.io) Web log analyser (replaces piwik without js tracking scripts)
 
@@ -118,13 +204,21 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Hackpad](https://github.com/dropbox/hackpad)
 
+* [haste](https://github.com/seejohnrun/haste-server)
+
+* [headphones](https://github.com/rembo10/headphones)
+
 * [Hexo](https://hexo.io/)
 
 * [Hi Buddy](https://github.com/tOkeshu/hibuddy) (/!\ last update: 17 Feb 2015)
 
+* [htpc-manager](https://htpc.io/)
+
 * [Huginn](https://github.com/cantino/huginn)
 
 * [Hugo](http://gohugo.io)
+
+* [humhub](https://www.humhub.org/en)
 
 * [Icecast 2](http://www.icecast.org)
 
@@ -142,6 +236,14 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [IPFS](https://ipfs.io)
 
+* [jappix_mini](https://mini.jappix.com/)
+
+* [jenkins](https://jenkins.io/)
+
+* [jitsi](https://jitsi.org/Projects/JitMeet)
+
+* [joomla](https://www.joomla.org/)
+
 * [Joplin](http://joplin.cozic.net/)
 
 * [Jellyfin](https://github.com/jellyfin)
@@ -152,11 +254,15 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Kin calendar](https://github.com/KinToday)
 
+* [kiwiirc](https://kiwiirc.com/)
+
 * [Kinto](https://github.com/Kinto/formbuilder)
 
 * [Kiwix](http://www.kiwix.org/) Offline wikipedia
 
 * [Known](https://withknown.com)
+
+* [kodi](https://kodi.tv/)
 
 * [Koel](http://koel.phanan.net)
 
@@ -170,11 +276,17 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Kune](https://en.wikipedia.org/wiki/Kune_%28software%29)
 
+* [lbcalerte](https://www.cheky.net/)
+
+* [lektor](https://www.getlektor.com/)
+
 * [Lessy](https://lessy.io)
 
 * [LibreNews-Server](https://librenews.io)
 
 * [LibreOffice Online](https://wiki.documentfoundation.org/ReleaseNotes/5.3/fr#LibreOffice_Online)
+
+* [linuxdash](https://github.com/afaqurk/linux-dash)
 
 * [LiquidSoap](http://savonet.sourceforge.net/)
 
@@ -182,37 +294,85 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Loomio](https://www.loomio.org)
 
+* [lychee](https://lychee.electerious.com/)
+
 * [MaidSafe](http://maidsafe.net)
 
 * [Mailpile](https://www.mailpile.is)
 
 * [MediaCrush](https://github.com/MediaCrush/MediaCrush) (/!\ last update: Jan 23, 2015)
 
+* [mediadrop](https://mediadrop.video/)
+
+* [mediagoblin](https://mediagoblin.org/)
+
+* [medusa](https://pymedusa.com/)
+
 * [microblog.pub](https://microblog.pub)
+
+* [mindmaps](https://www.mindmaps.app/)
+
+* [minetest](http://www.minetest.net/)
+
+* [miniflux](https://github.com/miniflux/miniflux)
 
 * [MinigalNano](https://github.com/sebsauvage/MinigalNano) (/!\ last update: Jun 24, 2016)
 
 * [Mirakel](http://mirakel.azapps.de/taskwarrior.html) (/!\ SSL-Warning)
 
+* [modernpaste](https://github.com/LINKIWI/modern-paste)
+
 * [Modoboa](http://modoboa.org)
+
+* [moodle](https://moodle.org/)
+
+* [mopidy](https://www.mopidy.com/)
 
 * [MotionEye](https://github.com/ccrisan/motioneye)
 
 * [MPD](http://www.musicpd.org)
 
+* [mumble_admin_plugin](https://github.com/mumble-voip/mumble)
+
+* [munin](http://munin-monitoring.org/)
+
 * [Museek+](https://github.com/eLvErDe/museek-plus)
+
+* [mycryptochat](https://github.com/HowTommy/mycryptochat/)
+
+* [nexusoss](https://www.sonatype.com/nexus-repository-oss)
 
 * [Nibbleblog](http://www.nibbleblog.com)
 
+* [noalyss](http://www.noalyss.eu/)
+
 * [Nuage](https://nuage.kerjean.me/login)
+
+* [ofbiz](https://ofbiz.apache.org/)
+
+* [onlyoffice](https://www.onlyoffice.com/fr/)
 
 * [OpenBazaar](https://openbazaar.org)
 
 * [openHAB](https://www.openhab.org/) - Smart home platform.
 
+* [openidsimplesamlphp](https://simplesamlphp.org/)
+
+* [opennote](https://github.com/FoxUSA/OpenNote/)
+
 * [OpenJabNab](https://github.com/OpenJabNab/OpenJabNab) (/!\ last update: Apr 30, 2016)
 
+* [openvpn](https://openvpn.net/)
+
+* [osjs](https://www.os-js.org/)
+
+* [osmw](https://www.openstreetmap.org)
+
+* [owncloud](https://owncloud.org/)
+
 * [OX Open-Xchange](https://www.open-xchange.com) Linux groupware solution
+
+* [pagure](https://pagure.io/pagure)
 
 * [Paperless](https://github.com/danielquinn/paperless)
 
@@ -220,11 +380,17 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Passbolt](https://www.passbolt.com) Passwords manager
 
+* [pelican](https://blog.getpelican.com/)
+
 * [pdfy](https://github.com/joepie91/pdfy) (/!\ last update: Aug 5, 2014)
 
 * [Pelias](https://github.com/pelias/pelias)
 
 * [Peps](https://github.com/MLstate/PEPS)
+
+* [pgadmin](https://www.pgadmin.org/)
+
+* [phpBB](https://www.phpbb.com/)
 
 * [PHPList](http://www.phplist.com)
 
@@ -238,9 +404,15 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Playmaker](https://github.com/NoMore201/playmaker)
 
+* [plonecms](https://plone.org/)
+
+* [prestashop](https://www.prestashop.com/fr)
+
 * [Privoxy](http://www.privoxy.org)
 
 * [ProcessMaker](http://www.processmaker.com)
+
+* [proftpd](http://www.proftpd.org)
 
 * [ProtonMail’s WebClient](https://github.com/ProtonMail/WebClient)
 
@@ -256,6 +428,8 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Redmine](https://www.redmine.org)
 
+* [remotestorage](https://remotestorage.io/)
+
 * [Request Tracker](https://bestpractical.com)
 
 * [Respawn 2.0](https://github.com/broncowdd/respawn) ( /!\ last update: 2015)
@@ -264,25 +438,51 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Retroshare](http://retroshare.net/downloads.html)
 
+* [roadiz](https://www.roadiz.io/)
+
+* [rocketchat](https://rocket.chat/)
+
+* [rutorrent](https://github.com/CotzaDev/rutorrent_ynh)
+
 * [SABnzbd](https://sabnzbd.org)
 
 * [ScenariChain-server](https://download.scenari.software/SCENARIchain-server/)
+
+* [scm](http://www.scm-manager.org)
 
 * [Scramble, Browser-based PGP web mail](https://github.com/dcposch/scramble)
 
 * [Scribbleton](https://scribbleton.com)
 
+* [scrumblr](http://www.scrumblr.ca/)
+
 * [Scuttlebutt Pub](https://www.scuttlebutt.nz/contributing)
+
+* [seenthis](https://seenthis.net/fran%C3%A7ais/article/c-est-quoi-seenthis)
 
 * [ShareLatex](https://www.sharelatex.com)
 
+* [shinken](https://github.com/YunoHost-apps/shinken_ynh)
+
+* [shuri](https://github.com/pips-/shuri)
+
 * [Shleuder](http://schleuder2.nadir.org)
 
+* [sickbeard](http://sickbeard.com/)
+
+* [sickrage](https://www.sickrage.ca/)
+
 * [Simone](https://github.com/Kloadut/Simone)
+
+* [simpad](https://github.com/beli3ver/SiMPad)
 
 * [SocialHome](https://github.com/jaywink/socialhome) (Socialhome is best described as a federated personal profile with social networking functionality) (https://socialhome.network)
 
 * [Sonarr](https://sonarr.tv)
+
+* [sonerezh](https://www.sonerezh.bzh/)
+
+* [squid3](http://www.squid-cache.org/)
 
 * [Stackedit](https://stackedit.io)
 
@@ -292,7 +492,13 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Streisand](https://github.com/jlund/streisand)
 
+* [studs](https://sourcesup.cru.fr/projects/studs/)
+
+* [subsonic](http://subsonic.org)
+
 * [Subspace](https://github.com/subspacecloud/subspace) (A simple WireGuard VPN server GUI)
+
+* [sympa](https://github.com/sympa-community/sympa)
 
 * [Syspass](http://www.syspass.org/)
 
@@ -302,17 +508,31 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Taskwarrior](https://taskwarrior.org)
 
+* [teampass](https://teampass.net/)
+
+* [telegram_chatbot](https://pypi.org/project/python-telegram-bot/)
+
+* [tes3mp](https://tes3mp.com/)
+
 * [TMate](https://tmate.io/)
 
 * [TorChat](https://github.com/prof7bit/TorChat)
+
+* [torrelay](https://www.torproject.org/)
 
 * [Torrent Tunes](https://github.com/tchoulihan/torrenttunes-client)
 
 * [Total Respawn](https://github.com/broncowdd/TotalRespawn)
 
+* [transwhat](https://github.com/stv0g/transwhat)
+
+* [turtl](https://turtlapp.com/)
+
 * [Twister](http://twister.net.co)
 
 * [TwitRSS.me](http://twitrss.me/) ([Github](https://github.com/ciderpunx/twitrssme)) Scrapes Twitter to create RSS feeds.
+
+* [umap](https://wiki.openstreetmap.org/wiki/UMap)
 
 * [Unvis](https://unv.is/) ([Github](https://github.com/lodjuret/unvis.it))
 
@@ -324,19 +544,37 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [WebODF](http://webodf.org)
 
+* [webogram](https://github.com/zhukov/webogram)
+
 * [webSync](http://furier.github.io/websync)
 
 * [WebTorrent](https://github.com/feross/webtorrent)
+
+* [wifiwithme](https://code.ffdn.org/ffdn/wifi-with-me)
+
+* [wildfly](https://wildfly.org/)
 
 * [Wisemapping](http://www.wisemapping.com)
 
 * [Xonotic](http://xonotic.org)
 
+* [yacy](https://yacy.net/fr/index.html)
+
+* [yellowcms](https://datenstrom.se/yellow/)
+
 * [YesWiki](https://yeswiki.net)
+
+* [youtube-dl-webui](https://github.com/d0u9/youtube-dl-webui)
+
+* [yunofav](https://github.com/YunoHost-Apps/yunofav_ynh)
+
+* [yunohost](https://github.com/aymhce/yunohost_ynh)
 
 * [ZeroTier](https://github.com/zerotier/ZeroTierOne)
 
 * [ZNC](http://wiki.znc.in/ZNC)
+
+* [zomburl](https://github.com/RocknRoot/Zomburl)
 
 * [Zone-project](https://github.com/descl/ZONE)
 
