@@ -388,8 +388,6 @@ Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / 
 
 * [Peps](https://github.com/MLstate/PEPS)
 
-* [pgadmin](https://www.pgadmin.org/)
-
 * [phpBB](https://www.phpbb.com/)
 
 * [PHPList](http://www.phplist.com)
