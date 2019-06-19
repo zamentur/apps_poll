@@ -1,5 +1,7 @@
 # Proposal for the next apps poll
 
+Title: `2019 June : YunoHost Community Apps Poll`
+
 In the Yunohost documentation, there is a list of [wishlist application](https://yunohost.org/#/apps_wishlist_en).
 As we now have 100+ level 7+ apps, we need to know on what application you want/need/care about, to let packager package them with love. You can choose up to 5 apps.
 
