@@ -1,10 +1,10 @@
 # Proposal for the next apps poll
 
 In the Yunohost documentation, there is a list of [wishlist application](https://yunohost.org/#/apps_wishlist_en).
-And we need to know on what application you want/need/care about, to let packager package them with love.
+As we now have 100+ level 7+ apps, we need to know on what application you want/need/care about, to let packager package them with love. You can choose up to 5 apps.
 
-La documentation de Yunohost contient une liste de [application souhaitées] (https://yunohost.org/#/apps_wishlist_en).
-Et nous avons besoin de savoir quelles applications vous voulez / avez besoin / vous vous soucier, afin que les packagers les package with love.
+La documentation de Yunohost contient une liste de [application souhaitées](https://yunohost.org/#/apps_wishlist_en).
+Maintenant qu'il a y plus de 100 apps level 7 et au dessuse, nous avons besoin de savoir quelles applications vous voulez/avez besoin/vous vous soucier, afin que les packagers les packagent with love. Vous pouvez choisir jusqu'à 5 apps.
 
 [poll type=multiple results=on_vote min=1 max=5]
 
